@@ -1,2 +1,1 @@
-# nand632.github.io
-#hemil cbhoav
+# https://github.com/HemilChovatiya/vuepress-boilerplate-netlify-cms/blob/master/index-dark.html
